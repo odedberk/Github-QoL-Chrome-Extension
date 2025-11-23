@@ -1,7 +1,7 @@
 
 <img src="icon.png" width="100" height="100">
 
-# GitHub QoL Extensions
+# GitHub QoL Extensions sdf 
 
 A Chrome extension that adds quality-of-life improvements to GitHub, including a PR link copier and workflows filter.
 
